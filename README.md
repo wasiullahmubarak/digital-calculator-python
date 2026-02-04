@@ -1,2 +1,7 @@
-# digital-calculator-python
-A console-based Python calculator with chained calculations, operation history, and graceful exit.
+# Digital Calculator Python
+  It supports:
+
+- Addition, subtraction, multiplication, and division
+- Chained calculations (continue using previous results)
+- Calculation history
+- Graceful exit at any step
